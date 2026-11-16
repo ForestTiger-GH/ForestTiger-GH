@@ -14,3 +14,10 @@
     <img src="https://gitarena.dev/api/badge/ForestTiger-GH/pill?timeframe=year&theme=light&color=blue" alt="GitArena — последние 12 месяцев" height="28">
   </a>
 </p>
+
+<p>
+  <sub>Outcode · yearly rank and score</sub><br><br>
+  <a href="https://outcode.lol/u/ForestTiger-GH">
+    <img src="https://outcode.lol/snippet/ForestTiger-GH.svg?period=year&amp;layout=wide" alt="Outcode yearly rank and score">
+  </a>
+</p>
